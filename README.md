@@ -23,6 +23,6 @@ Le projet a été généré avec Node.Js v14.15.1
             -puis: "nodemon/ng server",
             -le serveur écoute sur le port: http://localhost:3000
 
-Retrouver le versionnage de la partie frontend sur : https://github.com/Dolfin07/GermainLudivine_6_01012021
+Retrouver le versionnage de la partie backend sur : https://github.com/Dolfin07/GermainLudivine_6_01012021
 
 Pour les besoins des tests, ma propre base de données est mise à disposition.
